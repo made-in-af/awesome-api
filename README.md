@@ -4,9 +4,7 @@
 
 A reference to the resources in Afghanistan that offer free and premium API services.
 
-> 🟢 : Open sourced
-
-> 🗓 : Trial
+> 🟢 : Free
 
 > 💰: Paid
 
