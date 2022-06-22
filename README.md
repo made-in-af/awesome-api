@@ -24,6 +24,6 @@ A reference to the resources in Afghanistan that offer free and premium API serv
 ### Calendar & Time
 | Source | Description | Type |
 | ------ | ----------- | ---- |
-| [**Holiday API**](https://holidayapi.com/countries/af/)| Accurate, up-to-date public holidays, bank holidays, and observances in Afghanistan for 2022 ready to be integrated into your application. | 🗓💰 |
+| [**Holiday API**](https://holidayapi.com/countries/af/)| Accurate, up-to-date public holidays, bank holidays, and observances in Afghanistan for 2022 ready to be integrated into your application. | 💰 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
